@@ -1,0 +1,1 @@
+Objective: Build a machine learning model to predict pre-release movie box office revenue using factors like budget, cast, genre, social buzz, and trailer views.
