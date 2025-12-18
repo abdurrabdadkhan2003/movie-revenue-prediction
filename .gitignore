@@ -179,3 +179,24 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Project-specific
+# Large data files (if not using external storage)
+# data/*.csv
+# data/*.json
+
+# Trained models
+# models/*.pkl
+# models/*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# System files
+*~
+*.swp
+*.swo
